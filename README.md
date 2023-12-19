@@ -1,2 +1,2 @@
 # test
-Test för SQL-kurs
+Test repository för SQL-kurs 2023
