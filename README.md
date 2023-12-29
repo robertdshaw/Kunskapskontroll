@@ -1,2 +1,2 @@
-# test
-Test repository för SQL-kurs 2023
+# Kunskapskontroll
+Repository för SQL-kurs 2023
